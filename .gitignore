@@ -1,0 +1,5 @@
+*.o
+*~
+/reliable
+/reliable.tar.gz
+/uc
