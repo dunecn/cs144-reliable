@@ -38,7 +38,7 @@ tester reference:
 
 TAR = reliable.tar.gz
 
-SUBMIT = reliable/Makefile reliable/*.[ch]
+SUBMIT = reliable/Makefile reliable/*.[ch] reliable/README
 
 .PHONY: submit
 submit: clean
